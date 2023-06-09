@@ -19,18 +19,18 @@
 
 ## 2. 이력 페이지
 
-![Screenshot_1686275941](https://github.com/ks2019575015/HighP_FlutterApp/assets/48661711/a7399501-229a-41ea-a4bb-5e1548dc5d8b)
+<img width="533" alt="스크린샷 2023-06-09 오후 2 35 16" src="https://github.com/ks2019575015/week3/assets/48661711/586f04e7-4a9c-4a29-b952-a02c58f25e1c">
 
 
 ## 3. 자기소개 페이지
 
-![Screenshot_1686275945](https://github.com/ks2019575015/HighP_FlutterApp/assets/48661711/09fc72f9-c978-45f2-bef8-70a80048a0ea)
-
+<img width="533" alt="스크린샷 2023-06-09 오후 2 34 51" src="https://github.com/ks2019575015/week3/assets/48661711/40256de7-fb2f-459c-8462-933109821687">
 
 
 ## 4. 자격증 페이지
 
-![Screenshot_1686275946](https://github.com/ks2019575015/HighP_FlutterApp/assets/48661711/5589461d-1c68-46bb-9f08-b00654c936bf)
+<img width="533" alt="스크린샷 2023-06-09 오후 2 35 40" src="https://github.com/ks2019575015/HighP_FlutterApp/assets/48661711/c4e7bac6-d042-4957-a9e5-274b6ec03aeb">
+
 
 
 ## 5. 프로젝트 페이지
